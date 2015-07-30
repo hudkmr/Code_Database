@@ -1,0 +1,137 @@
+INFO:root:Started at 301952
+INFO:root:PCDU_5 Register Value = 0200
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0002
+INFO:root:RX Total Packets on Port 1 = 11f3
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = f351
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = d4b1
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = d99c
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0200
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0002
+INFO:root:RX Total Packets on Port 1 = 6ae4
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 6692
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 5e24
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 43c6
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0201
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0003
+INFO:root:RX Total Packets on Port 1 = f7ba
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = ef87
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = da1e
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = bcb8
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0202
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0003
+INFO:root:RX Total Packets on Port 1 = 8195
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 87c9
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 6cf5
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 6d2d
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0203
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0003
+INFO:root:RX Total Packets on Port 1 = 6b11
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 802b
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 676b
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 8525
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0204
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0004
+INFO:root:RX Total Packets on Port 1 = 7a96
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 5cc8
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 3dd8
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 1f92
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0205
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0004
+INFO:root:RX Total Packets on Port 1 = 1ee5
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 163e
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = f838
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = e2e9
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0206
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0004
+INFO:root:RX Total Packets on Port 1 = d7ec
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = bf20
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 9fff
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 8215
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0207
+INFO:root:RX CRC Error on Port 0 = 0000
+INFO:root:RX Total Packets on Port 0 = 0000
+INFO:root:RX CRC Error on Port 1 = 0005
+INFO:root:RX Total Packets on Port 1 = 7c92
+INFO:root:RX CRC Error on Port 2 = 0000
+INFO:root:RX Total Packets on Port 2 = 63a6
+INFO:root:RX CRC Error on Port 3 = 0002
+INFO:root:RX Total Packets on Port 3 = 4501
+INFO:root:RX CRC Error on Port 4 = 0000
+INFO:root:RX Total Packets on Port 4 = 26b7
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:Ended at 302002

@@ -1,0 +1,62 @@
+ETC Port Link Parameters
+
+PortNo,Firmware Version,Link Speed
+GPHY0,8505,1000mb
+GPHY1,8505,1000mb
+GPHY2,8505,1000mb
+GPHY3,8505,1000mb
+GPHY4,8505,1000mb
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01ff,7.67,1.152,5055.6,621.94,9174
+0x41,9174,1.81,2.508,453.2,180.95,066d
+0x43,01df,3.34,3.288,12103.52,333.96,ade8
+0x44,01df,10.97,1.14,1254.0,1099.01,9174
+0x45,01df,4.79,2.504,11022.0,11.99,9174
+0x47,01df,1.41,3.308,12177.12,149.04,ade8
+
+Generator_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,TotalFrameCount,TotalOctetCount,GeneratorFrameCount,GeneratorOctetCount,GeneratorSigFrameCount,GeneratorUndersizeFrameCount,GeneratorOversizeFrameCount,GeneratorJumboFrameCount,TotalFrameRate,TotalOctetRate,GeneratorFrameRate,GeneratorOctetRate,GeneratorSigFrameRate,GeneratorUndersizeFrameRate,GeneratorOversizeFrameRate,GeneratorJumboFrameRate,GeneratorCrcErrorFrameCount,GeneratorL3ChecksumErrorCount,GeneratorL4ChecksumErrorCount,GeneratorCrcErrorFrameRate,GeneratorL3ChecksumErrorRate,GeneratorL4ChecksumErrorRate,TotalIpv4FrameCount,TotalIpv6FrameCount,TotalMplsFrameCount,GeneratorIpv4FrameCount,GeneratorIpv6FrameCount,GeneratorVlanFrameCount,GeneratorMplsFrameCount,TotalIpv4FrameRate,TotalIpv6FrameRate,TotalMplsFrameRate,GeneratorIpv4FrameRate,GeneratorIpv6FrameRate,GeneratorVlanFrameRate,GeneratorMplsFrameRate,TotalBitRate,GeneratorBitRate,L1BitCount,L1BitRate,PfcFrameCount,PfcPri0FrameCount,PfcPri1FrameCount,PfcPri2FrameCount,PfcPri3FrameCount,PfcPri4FrameCount,PfcPri5FrameCount,PfcPri6FrameCount,PfcPri7FrameCount,
+
+generatorportresults1,,port1,Port //1/2 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,14820,12261052,14820,12261052,14820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98088416,98088416,67433050672,100459617,null,null,null,null,null,null,null,null,null,
+generatorportresults2,,port2,Port //1/3 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,13377,11050829,13377,11050829,13377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88406632,88406632,67433050672,90546923,null,null,null,null,null,null,null,null,null,
+generatorportresults3,,port3,Port //1/4 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,12276,10120248,12276,10120248,12276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80961984,80961984,67433050672,82926070,null,null,null,null,null,null,null,null,null,
+generatorportresults4,,port4,Port //1/5 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,13008,10734637,13008,10734637,13008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85877096,85877096,67433050672,87958376,null,null,null,null,null,null,null,null,null,
+generatorportresults5,,port5,Port //1/6 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,14819,12258633,14819,12258633,14819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98069064,98069064,67433050672,100440098,null,null,null,null,null,null,null,null,null,
+generatorportresults6,,port6,Port //1/7 (offline),10000000,8229131334,10000000,8229131334,10000000,0,0,0,14300,11820713,14300,11820713,14300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94565704,94565704,67433050672,96853723,null,null,null,null,null,null,null,null,null,
+
+Analyzer_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,TotalFrameCount,TotalOctetCount,SigFrameCount,UndersizeFrameCount,OversizeFrameCount,JumboFrameCount,MinFrameLength,MaxFrameLength,PauseFrameCount,TotalFrameRate,TotalOctetRate,SigFrameRate,UndersizeFrameRate,OversizeFrameRate,JumboFrameRate,PauseFrameRate,FcsErrorFrameCount,Ipv4ChecksumErrorCount,TcpChecksumErrorCount,UdpChecksumErrorCount,PrbsFillOctetCount,PrbsBitErrorCount,FcsErrorFrameRate,Ipv4ChecksumErrorRate,TcpChecksumErrorRate,UdpChecksumErrorRate,PrbsFillOctetRate,PrbsBitErrorRate,Ipv4FrameCount,Ipv6FrameCount,Ipv6OverIpv4FrameCount,TcpFrameCount,UdpFrameCount,MplsFrameCount,IcmpFrameCount,VlanFrameCount,Ipv4FrameRate,Ipv6FrameRate,Ipv6OverIpv4FrameRate,TcpFrameRate,UdpFrameRate,MplsFrameRate,IcmpFrameRate,VlanFrameRate,Trigger1Count,Trigger1Rate,Trigger2Count,Trigger2Rate,Trigger3Count,Trigger3Rate,Trigger4Count,Trigger4Rate,Trigger5Count,Trigger5Rate,Trigger6Count,Trigger6Rate,Trigger7Count,Trigger7Rate,Trigger8Count,Trigger8Rate,ComboTriggerCount,ComboTriggerRate,TotalBitRate,PrbsBitErrorRatio,VlanFrameRate,L1BitCount,L1BitRate,PfcFrameCount,FcoeFrameCount,PfcFrameRate,FcoeFrameRate,PfcPri0FrameCount,PfcPri1FrameCount,PfcPri2FrameCount,PfcPri3FrameCount,PfcPri4FrameCount,PfcPri5FrameCount,PfcPri6FrameCount,PfcPri7FrameCount,PfcPri0Quanta,PfcPri1Quanta,PfcPri2Quanta,PfcPri3Quanta,PfcPri4Quanta,PfcPri5Quanta,PfcPri6Quanta,PfcPri7Quanta,PrbsErrorFrameCount,PrbsErrorFrameRate,UserDefinedFrameCount1,UserDefinedFrameRate1,UserDefinedFrameCount2,UserDefinedFrameRate2,UserDefinedFrameCount3,UserDefinedFrameRate3,UserDefinedFrameCount4,UserDefinedFrameRate4,UserDefinedFrameCount5,UserDefinedFrameRate5,UserDefinedFrameCount6,UserDefinedFrameRate6,
+
+analyzerportresults1,,port1,Port //1/2 (offline),9999543,8228754690,9999543,0,0,0,128,1518,0,14821,12252962,14821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98023696,0,0,67429964400,100395107,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+analyzerportresults2,,port2,Port //1/3 (offline),9997187,8226831965,9997187,0,0,0,128,1518,0,14822,12245174,14822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97961392,0,0,67414205640,100332961,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+analyzerportresults3,,port3,Port //1/4 (offline),9997746,8227274310,9997746,0,0,0,128,1518,0,14823,12243036,14823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97944288,0,0,67417833840,100315911,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+analyzerportresults4,,port4,Port //1/5 (offline),9999235,8228508986,9999235,0,0,0,128,1518,0,14822,12247597,14822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97980776,0,0,67427949488,100352294,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+analyzerportresults5,,port5,Port //1/6 (offline),9999906,8229057458,9999906,0,0,0,128,1518,0,14822,12249781,14822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97998248,0,0,67432444624,100369763,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+analyzerportresults6,,port6,Port //1/7 (offline),9996187,8226058934,9996187,0,0,0,128,1518,0,14820,12261381,14820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98091048,0,0,67407861392,100462302,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+RxStream_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,SigFrameCount,FcsErrorFrameCount,MinLatency,MaxLatency,DroppedFrameCount,DroppedFramePercent,InOrderFrameCount,ReorderedFrameCount,DuplicateFrameCount,LateFrameCount,PrbsBitErrorCount,PrbsFillOctetCount,Ipv4ChecksumErrorCount,TcpUdpChecksumErrorCount,FrameRate,SigFrameRate,FcsErrorFrameRate,DroppedFrameRate,DroppedFramePercentRate,InOrderFrameRate,ReorderedFrameRate,DuplicateFrameRate,LateFrameRate,PrbsBitErrorRate,PrbsFillOctetRate,Ipv4ChecksumErrorRate,TcpUdpChecksumErrorRate,BitRate,ShortTermAvgLatency,AvgLatency,PrbsBitErrorRatio,L1BitCount,L1BitRate,PrbsErrorFrameCount,PrbsErrorFrameRate,PortStrayFrames,BitCount,ShortTermAvgJitter,AvgJitter,Rfc4689AbsoluteAvgJitter,MinJitter,MaxJitter,ShortTermAvgInterarrivalTime,AvgInterarrivalTime,MinInterarrivalTime,MaxInterarrivalTime,InSeqFrameCount,OutSeqFrameCount,InSeqFrameRate,OutSeqFrameRate,HistBin1Count,HistBin2Count,HistBin3Count,HistBin4Count,HistBin5Count,HistBin6Count,HistBin7Count,HistBin8Count,HistBin9Count,HistBin10Count,HistBin11Count,HistBin12Count,HistBin13Count,HistBin14Count,HistBin15Count,HistBin16Count,
+
+rxstreamsummaryresults1,,port1,Port //1/2 (offline),9997512,9997512,0,2.19,13.43,0,0,9997512,0,0,0,0,0,0,0,14822,14822,0,0,0,14822,0,0,0,0,0,0,0,97992728,7.796,7.781,0,67416485504,100364246,0,0,NA,65816883584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+rxstreamsummaryresults2,,port2,Port //1/3 (offline),9999870,9999870,0,2.19,13.42,1,0,9999870,0,0,0,0,0,0,0,14822,14822,0,0,0,14822,0,0,0,0,0,0,0,97972800,7.791,7.777,0,67432122240,100344377,0,0,NA,65832143040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+rxstreamsummaryresults3,,port3,Port //1/4 (offline),9999548,9999548,0,2.14,13.38,0,0,9999548,0,0,0,0,0,0,0,14822,14822,0,0,0,14822,0,0,0,0,0,0,0,98020408,7.75,7.732,0,67430000152,100391871,0,0,NA,65830072472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+rxstreamsummaryresults4,,port4,Port //1/5 (offline),9998055,9998055,0,2.13,13.38,0,0,9998055,0,0,0,0,0,0,0,14822,14822,0,0,0,14822,0,0,0,0,0,0,0,97964808,7.726,7.722,0,67420065216,100336378,0,0,NA,65820376416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+rxstreamsummaryresults5,,port5,Port //1/6 (offline),10000000,10000000,0,2.14,13.38,0,0,10000000,0,0,0,0,0,0,0,11045,11045,0,0,0,11045,0,0,0,0,0,0,0,73055152,7.611,7.728,0,67433050672,74822357,0,0,NA,65833050672,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+rxstreamsummaryresults6,,port6,Port //1/7 (offline),10000000,10000000,0,2.12,13.38,0,0,10000000,0,0,0,0,0,0,0,14754,14754,0,0,0,14754,0,0,0,0,0,0,0,97545128,7.717,7.704,0,67433050672,99905813,0,0,NA,65833050672,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+TxStream_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,,port1,Port //1/2 (offline),10000000,12864,84475776,10000000,67433050672,86534061,65833050672,
+txstreamresults2,,port2,Port //1/3 (offline),10000000,13962,91774096,10000000,67433050672,94008012,65833050672,
+txstreamresults3,,port3,Port //1/4 (offline),10000000,13301,87281800,10000000,67433050672,89409908,65833050672,
+txstreamresults4,,port4,Port //1/5 (offline),10000000,13741,90266296,10000000,67433050672,92464829,65833050672,
+txstreamresults5,,port5,Port //1/6 (offline),10000000,12836,84306424,10000000,67433050672,86360203,65833050672,
+txstreamresults6,,port6,Port //1/7 (offline),10000000,14516,95406536,10000000,67433050672,97729139,65833050672,

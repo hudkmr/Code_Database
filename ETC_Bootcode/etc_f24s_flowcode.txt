@@ -1,0 +1,26 @@
+switch(ps_nowait):
+	case 0:
+			switch(ps_op_md0):
+				case 0:
+							SSPI Management Interface
+							break
+				case 1:
+							SMDIO+ UART Inteface
+							break
+			break;
+	case 1:
+			switch(ps_op_md):
+				case 0:
+							//MD0 Mode Quad Phy or 5 Port QSGMII
+							case(ps_subtype_md210):
+							break;
+				case 1:
+							//MD1 Mode
+							break;
+				case 2:		
+							//MD2 Mode
+							break;
+				case 3:
+							//MD3 Mode
+							break;
+							

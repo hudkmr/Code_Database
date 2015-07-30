@@ -1,0 +1,17 @@
+set chassisIp 10.64.44.146
+set por1Location 1/7
+set por2Location 1/8
+set port1Ipv6 2002::0001:a8:54
+set port1GatewayIpv6 2002::0001:a8:53
+set port2GatewayIpv6 2001::0001:0:53
+set port2Ipv6 2001::0001:0:54
+set port1GatewayMac 02:02:02:02:01:00
+set port2GatewayMac 02:01:01:01:01:00
+set frameLengh 512
+set up_stream_load 1
+set up_stream_result_capture 0
+set down_stream_load 5
+set down_stream_result_capture 1
+set session_count 256
+set runTime 50
+set resolution 0.50

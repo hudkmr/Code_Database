@@ -1,0 +1,31 @@
+D:/GIT/Code_Database/RAC/source_code/stc_scripts/stc_1000mb_jumbo/stc_1000mb_jumbo-0004-txstreamresults.csv for periodic results
+
+================== Periodic Results: TxStreamResults Record #1
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //1/2",0,0,0,0,0,0,0,
+txstreamresults2,"",port2,"Port //1/3",0,0,0,0,0,0,0,
+txstreamresults3,"",port3,"Port //1/4",0,0,0,0,0,0,0,
+txstreamresults4,"",port4,"Port //1/5",0,0,0,0,0,0,0,
+txstreamresults5,"",port5,"Port //1/6",0,0,0,0,0,0,0,
+txstreamresults6,"",port6,"Port //1/7",0,0,0,0,0,0,0,
+
+================== Periodic Results: TxStreamResults Record #2
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //1/2",0,0,0,0,0,0,0,
+txstreamresults2,"",port2,"Port //1/3",0,0,0,0,0,0,0,
+txstreamresults3,"",port3,"Port //1/4",4030,4029,25911840,4030,26563616,26556470,25918816,
+txstreamresults4,"",port4,"Port //1/5",0,0,0,0,0,0,0,
+txstreamresults5,"",port5,"Port //1/6",0,0,0,0,0,0,0,
+txstreamresults6,"",port6,"Port //1/7",0,0,0,0,0,0,0,
+
+================== Periodic Results: TxStreamResults Record #3
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //1/2",9600,9038,57586632,9600,62703552,59032714,61167552,
+txstreamresults2,"",port2,"Port //1/3",9600,9597,61146584,9600,62703552,62682055,61167552,
+txstreamresults3,"",port3,"Port //1/4",9600,4799,30578424,9600,62703552,31346290,61167552,
+txstreamresults4,"",port4,"Port //1/5",9600,8448,53986296,9600,62703552,55338034,61167552,
+txstreamresults5,"",port5,"Port //1/6",9600,9250,58937168,9600,62703552,60417157,61167552,
+txstreamresults6,"",port6,"Port //1/7",9600,7280,46637992,9600,62703552,47802770,61167552,

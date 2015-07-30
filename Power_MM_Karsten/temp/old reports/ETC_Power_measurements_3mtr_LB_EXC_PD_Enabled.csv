@@ -1,0 +1,271 @@
+Device Fuse Register Read,
+Sl.no,REG ADDR,REG VAL
+1,0xfa10,0x0713
+2,0xfa11,0x0003
+3,0xfa12,0x0000
+4,0xfa13,0x0000
+5,0xfa14,0x0000
+6,0xfa15,0x0000
+7,0xfa16,0x0000
+8,0xfa17,0x0000
+9,0xfa18,0x0000
+10,0xfa19,0x0000
+11,0xfa1a,0x0000
+12,0xfa1b,0x0000
+13,0xfa1c,0x0000
+14,0xfa1d,0x0000
+15,0xfa1e,0x0000
+16,0xfa1f,0x0000
+17,0xfa20,0x0000
+18,0xfa21,0x0000
+19,0xfa22,0x0000
+20,0xfa23,0x0000
+21,0xfa24,0x0000
+22,0xfa25,0x0000
+23,0xfa26,0x0000
+24,0xfa27,0x0000
+25,0xfa28,0x0000
+26,0xfa29,0x0000
+27,0xfa2a,0x0000
+28,0xfa2b,0x0000
+29,0xfa2c,0x0000
+30,0xfa2d,0x0000
+31,0xfa2e,0x0000
+32,0xfa2f,0x0000
+33,0xfa30,0x0000
+34,0xfa31,0x0000
+35,0xfa32,0x0000
+36,0xfa33,0x0000
+37,0xfa34,0x0000
+38,0xfa35,0x0000
+39,0xfa36,0x0000
+40,0xfa37,0x0000
+41,0xfa38,0x0000
+42,0xfa39,0x0000
+43,0xfa3a,0x0000
+44,0xfa3b,0x0000
+45,0xfa3c,0x0000
+46,0xfa3d,0x0000
+47,0xfa3e,0x0000
+48,0xfa3f,0x0000
+49,0xfa40,0x0000
+50,0xfa41,0x0000
+51,0xfa42,0x0000
+52,0xfa43,0x0000
+53,0xfa44,0x0000
+54,0xfa45,0x0000
+55,1F.70A,0x0000a
+55,1F.70D,0x00000
+55,1F.70F,0x00033
+55,1F.710,0x00033
+55,1F.d80,0x00000
+55,1F.d81,0x00000
+55,1F.d82,0x00060
+55,1F.d83,0x00077
+55,1F.d84,0x0003f
+55,1F.d85,0x00000
+55,1F.d86,0x00000
+55,1F.d87,0x00000
+55,1F.d88,0x00000
+55,1F.d89,0x00000
+55,1F.d8a,0x000c0
+55,1F.d8b,0x000ff
+55,1F.d8c,0x00011
+55,1F.d8d,0x00026
+55,1F.d8e,0x0005e
+55,1F.d8f,0x00022
+55,1F.d90,0x00000
+55,1F.d91,0x00069
+55,1F.d92,0x00000
+55,1F.d93,0x00008
+55,1F.d94,0x00007
+55,1F.d95,0x00007
+55,1F.d96,0x000b4
+55,1F.d97,0x0000d
+Test Condition,,Description,Power Measurement at Power on Condition
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0020
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,3.97,1.108,440.0,396.99,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,2.61,3.292,862.96,262.016,ade8
+0x44,01df,5.99,1.108,660.0,598.95,9174
+0x45,01df,0.13,2.508,33.0,12.98,9174
+0x47,01df,0.76,3.28,220.8,75.992,ade8
+
+Total Power,,,,2328.96
+
+Test Condition,,Description,Power Measurement - All Port Enabled
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0000
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,3.97,1.108,440.0,396.99,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,2.62,3.292,859.28,261.004,ade8
+0x44,01df,6.0,1.104,660.0,598.95,9174
+0x45,01df,0.13,2.508,33.0,12.98,9174
+0x47,01df,0.73,3.28,220.8,66.976,ade8
+
+Total Power,,,,2325.28
+
+Test Condition,,Description,Power Measurement - Uc Disabled
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0010
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,3.97,1.108,440.0,396.99,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,2.62,3.292,862.96,262.016,ade8
+0x44,01df,6.0,1.104,662.2,601.04,9174
+0x45,01df,0.13,2.512,33.0,12.98,9174
+0x47,01df,0.61,3.28,198.72,67.988,ade8
+
+Total Power,,,,2309.08
+
+Test Condition,,Description,Power Measurement - SGMII PHY in Low Power Mode
+
+Register,Address,Value
+Res_Req Reg,d009,0x000c
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,3.97,1.108,440.0,396.99,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,2.61,3.292,859.28,261.004,ade8
+0x44,01df,6.0,1.108,662.2,601.04,9174
+0x45,01df,0.13,2.508,33.0,12.98,9174
+0x47,01df,0.61,3.28,220.8,63.02,ade8
+
+Total Power,,,,2327.48
+
+Test Condition,,Description,Power Measurement - SGMII Port Disabled
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0030
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,3.97,1.108,440.0,396.99,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,2.62,3.292,862.96,262.016,ade8
+0x44,01df,6.01,1.104,662.2,601.04,9174
+0x45,01df,0.13,2.512,33.0,12.98,9174
+0x47,01df,0.61,3.28,222.64,60.996,ade8
+
+Total Power,,,,2333.0
+
+Test Condition,,Description,Power Measurement - GPHY0 Disabled
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0031
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,2.42,1.112,270.6,242.0,9174
+0x41,01df,0.45,2.504,112.2,44.99,9174
+0x43,01df,1.5,3.296,494.96,149.96,ade8
+0x44,01df,4.1,1.108,453.2,409.97,9174
+0x45,01df,0.13,2.512,33.0,12.98,9174
+0x47,01df,0.55,3.28,189.52,57.96,ade8
+
+Total Power,,,,1553.48
+
+Test Condition,,Description,"Power Measurement - GPHY0,GPHY1 Disabled"
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0033
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,0.68,1.112,74.8,67.98,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,0.39,3.296,128.8,39.008,ade8
+0x44,01df,2.01,1.112,224.4,200.97,9174
+0x45,01df,0.13,2.512,33.0,12.98,9174
+0x47,01df,0.43,3.28,150.88,42.964,ade8
+
+Total Power,,,,724.08
+
+Test Condition,,Description,"Power Measurement - GPHY0,GPHY1,GPHY2 Disabled"
+
+Register,Address,Value
+Res_Req Reg,fa01,0x0037
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,0.38,1.112,44.0,37.95,9174
+0x41,01df,0.45,2.504,112.2,44.99,9174
+0x43,01df,0.39,3.296,128.8,39.008,ade8
+0x44,01df,1.8,1.112,202.4,179.96,9174
+0x45,01df,0.13,2.508,33.0,12.98,9174
+0x47,01df,0.36,3.28,121.44,37.996,ade8
+
+Total Power,,,,641.84
+
+Test Condition,,Description,"Power Measurement - GPHY0,GPHY1,GPHY2,GPHY3 Disabled"
+
+Register,Address,Value
+Res_Req Reg,fa01,0x003f
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,0.26,1.112,28.6,25.96,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,0.39,3.296,128.8,39.008,ade8
+0x44,01df,1.61,1.112,176.0,161.04,9174
+0x45,01df,0.13,2.512,33.0,12.98,9174
+0x47,01df,0.37,3.28,121.44,36.984,ade8
+
+Total Power,,,,600.04
+
+Test Condition,,Description,Power Measurement - ROPLL Disable
+
+Register,Address,Value
+Res_Req Reg,f980,0x0000
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,0.25,1.108,28.6,25.96,9174
+0x41,01df,0.45,2.508,112.2,44.99,9174
+0x43,01df,0.35,3.296,114.08,34.96,ade8
+0x44,01df,1.57,1.112,173.8,156.97,9174
+0x45,01df,0.07,2.508,17.6,7.04,9174
+0x47,01df,0.38,3.28,121.44,37.996,ade8
+
+Total Power,,,,567.72
+
+Test Condition,,Description,Power Measurement with CDB Disable
+
+Register,Address,Value
+Res_Req Reg,f880,0x0000
+
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,0.09,1.108,11.0,9.02,9174
+0x41,01df,0.46,2.508,114.4,45.98,9174
+0x43,01df,0.28,3.296,93.84,27.968,ade8
+0x44,01df,0.09,1.112,11.0,9.02,9174
+0x45,01df,0.07,2.508,17.6,7.04,9174
+0x47,01df,0.52,3.28,171.12,51.98,ade8
+
+Total Power,,,,418.96
+

@@ -1,0 +1,3 @@
+INFO:root:Started at 041801
+INFO:root:PCDU_5 Register Value = 0200
+INFO:root:RX CRC Error on Port 5 = 317

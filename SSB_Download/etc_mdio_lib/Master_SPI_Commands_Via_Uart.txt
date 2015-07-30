@@ -1,0 +1,24 @@
+Master SPI Commands
+
+m f383 03c0 03c0 
+m f384 0000 03c0 
+w f510 800A
+w f511 0001
+w f51c 2Bfa
+w f51d 0101
+w f51e ffff
+w f512 000d
+
+w f510 800A
+w f511 0001
+w f51c 2Af6
+w f51d 80FF
+w f51e FF00
+w f512 000d
+
+w f510 800A
+w f511 0001
+w f51c 2Bf6
+w f51d 8000
+w f51e 0000
+w f512 000d

@@ -1,0 +1,131 @@
+D:/ETC/Reliability Test/source_code/stc_10mb/stc_10mb-0004-txstreamresults.csv for periodic results
+
+================== Periodic Results: TxStreamResults Record #1
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",88,13,13904,88,104192,16082,90112,
+txstreamresults2,"",port2,"Port //2/2",0,0,0,0,0,0,0,
+txstreamresults3,"",port3,"Port //2/3",0,0,0,0,0,0,0,
+txstreamresults4,"",port4,"Port //2/4",0,0,0,0,0,0,0,
+txstreamresults5,"",port5,"Port //2/5",48,7,7648,48,56832,8846,49152,
+txstreamresults6,"",port6,"Port //2/6",0,0,0,0,0,0,0,
+
+================== Periodic Results: TxStreamResults Record #2
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",933,845,865160,933,1104672,1000340,955392,
+txstreamresults2,"",port2,"Port //2/2",463,463,474320,463,548192,548430,474112,
+txstreamresults3,"",port3,"Port //2/3",315,315,322608,315,372960,373016,322560,
+txstreamresults4,"",port4,"Port //2/4",679,679,695456,679,803936,804125,695296,
+txstreamresults5,"",port5,"Port //2/5",889,845,864984,889,1052576,1000138,910336,
+txstreamresults6,"",port6,"Port //2/6",417,417,427200,417,493728,493947,427008,
+
+================== Periodic Results: TxStreamResults Record #3
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",1777,845,864680,1777,2103968,999780,1819648,
+txstreamresults2,"",port2,"Port //2/2",1308,654,669808,1308,1548672,774458,1339392,
+txstreamresults3,"",port3,"Port //2/3",1159,580,593432,1159,1372256,686153,1186816,
+txstreamresults4,"",port4,"Port //2/4",1524,762,780416,1524,1804416,902354,1560576,
+txstreamresults5,"",port5,"Port //2/5",1734,845,865104,1734,2053056,1000273,1775616,
+txstreamresults6,"",port6,"Port //2/6",1261,631,645736,1261,1493024,746627,1291264,
+
+================== Periodic Results: TxStreamResults Record #4
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",2622,845,864896,2622,3104448,1000038,2684928,
+txstreamresults2,"",port2,"Port //2/2",2152,717,734616,2152,2547968,849399,2203648,
+txstreamresults3,"",port3,"Port //2/3",2004,668,684040,2004,2372736,790926,2052096,
+txstreamresults4,"",port4,"Port //2/4",2368,789,808352,2368,2803712,934659,2424832,
+txstreamresults5,"",port5,"Port //2/5",2578,845,864840,2578,3052352,999968,2639872,
+txstreamresults6,"",port6,"Port //2/6",2106,702,718912,2106,2493504,831238,2156544,
+
+================== Periodic Results: TxStreamResults Record #5
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",3467,845,865008,3467,4104928,1000163,3550208,
+txstreamresults2,"",port2,"Port //2/2",2997,749,767288,2997,3548448,887177,3068928,
+txstreamresults3,"",port3,"Port //2/3",2848,712,729096,2848,3372032,843021,2916352,
+txstreamresults4,"",port4,"Port //2/4",3213,803,822584,3213,3804192,951113,3290112,
+txstreamresults5,"",port5,"Port //2/5",3422,845,864864,3422,4051648,1000001,3504128,
+txstreamresults6,"",port6,"Port //2/6",2950,738,755240,2950,3492800,873242,3020800,
+
+================== Periodic Results: TxStreamResults Record #6
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",4311,845,864848,4311,5104224,999978,4414464,
+txstreamresults2,"",port2,"Port //2/2",3841,768,786680,3841,4547744,909595,3933184,
+txstreamresults3,"",port3,"Port //2/3",3693,739,756336,3693,4372512,874511,3781632,
+txstreamresults4,"",port4,"Port //2/4",4058,812,831120,4058,4804672,960984,4155392,
+txstreamresults5,"",port5,"Port //2/5",4267,845,864808,4267,5052128,999938,4369408,
+txstreamresults6,"",port6,"Port //2/6",3795,759,777256,3795,4493280,898705,3886080,
+
+================== Periodic Results: TxStreamResults Record #7
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",5156,844,864744,5156,6104704,999863,5279744,
+txstreamresults2,"",port2,"Port //2/2",4686,845,864872,4686,5548224,1000008,4798464,
+txstreamresults3,"",port3,"Port //2/3",4538,845,864864,4538,5372992,1000005,4646912,
+txstreamresults4,"",port4,"Port //2/4",4902,845,864880,4902,5803968,1000021,5019648,
+txstreamresults5,"",port5,"Port //2/5",5112,845,864856,5112,6052608,999991,5234688,
+txstreamresults6,"",port6,"Port //2/6",4640,845,864856,4640,5493760,999994,4751360,
+
+================== Periodic Results: TxStreamResults Record #8
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",6000,845,864880,6000,7104000,1000020,6144000,
+txstreamresults2,"",port2,"Port //2/2",5531,845,864864,5531,6548704,1000004,5663744,
+txstreamresults3,"",port3,"Port //2/3",5382,845,864864,5382,6372288,1000005,5511168,
+txstreamresults4,"",port4,"Port //2/4",5747,845,864872,5747,6804448,1000004,5884928,
+txstreamresults5,"",port5,"Port //2/5",5956,844,864680,5956,7051904,999784,6098944,
+txstreamresults6,"",port6,"Port //2/6",5484,845,864872,5484,6493056,1000008,5615616,
+
+================== Periodic Results: TxStreamResults Record #9
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",6852,844,864760,6852,8112768,999878,7016448,
+txstreamresults2,"",port2,"Port //2/2",6375,845,864872,6375,7548000,1000011,6528000,
+txstreamresults3,"",port3,"Port //2/3",6227,845,864872,6227,7372768,1000007,6376448,
+txstreamresults4,"",port4,"Port //2/4",6591,845,864880,6591,7803744,1000013,6749184,
+txstreamresults5,"",port5,"Port //2/5",6800,845,864808,6800,8051200,999930,6963200,
+txstreamresults6,"",port6,"Port //2/6",6329,845,864872,6329,7493536,1000009,6480896,
+
+================== Periodic Results: TxStreamResults Record #10
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",7690,845,864864,7690,9104960,999997,7874560,
+txstreamresults2,"",port2,"Port //2/2",7220,845,864864,7220,8548480,1000002,7393280,
+txstreamresults3,"",port3,"Port //2/3",7071,845,864864,7071,8372064,1000004,7240704,
+txstreamresults4,"",port4,"Port //2/4",7436,845,864872,7436,8804224,1000008,7614464,
+txstreamresults5,"",port5,"Port //2/5",7646,845,864936,7646,9052864,1000081,7829504,
+txstreamresults6,"",port6,"Port //2/6",7173,845,864872,7173,8492832,1000012,7345152,
+
+================== Periodic Results: TxStreamResults Record #11
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",8535,845,864816,8535,10105440,999943,8739840,
+txstreamresults2,"",port2,"Port //2/2",8064,845,864872,8064,9547776,1000010,8257536,
+txstreamresults3,"",port3,"Port //2/3",7916,845,864872,7916,9372544,1000007,8105984,
+txstreamresults4,"",port4,"Port //2/4",8281,845,864880,8281,9804704,1000015,8479744,
+txstreamresults5,"",port5,"Port //2/5",8490,845,864856,8490,10052160,999991,8693760,
+txstreamresults6,"",port6,"Port //2/6",8018,845,864864,8018,9493312,1000001,8210432,
+
+================== Periodic Results: TxStreamResults Record #12
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",9379,845,864992,9379,11104736,1000152,9604096,
+txstreamresults2,"",port2,"Port //2/2",8909,845,864864,8909,10548256,1000001,9122816,
+txstreamresults3,"",port3,"Port //2/3",8761,845,864872,8761,10373024,1000006,8971264,
+txstreamresults4,"",port4,"Port //2/4",9125,845,864864,9125,10804000,1000001,9344000,
+txstreamresults5,"",port5,"Port //2/5",9335,845,864880,9335,11052640,1000021,9559040,
+txstreamresults6,"",port6,"Port //2/6",8862,844,864680,8862,10492608,999786,9074688,
+
+================== Periodic Results: TxStreamResults Record #13
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,"",port1,"Port //2/1",10000,797,816544,10000,11840000,944130,10240000,
+txstreamresults2,"",port2,"Port //2/2",10000,845,864872,10000,11840000,1000004,10240000,
+txstreamresults3,"",port3,"Port //2/3",10000,845,864872,10000,11840000,1000008,10240000,
+txstreamresults4,"",port4,"Port //2/4",10000,845,864872,10000,11840000,1000011,10240000,
+txstreamresults5,"",port5,"Port //2/5",10000,806,825472,10000,11840000,954454,10240000,
+txstreamresults6,"",port6,"Port //2/6",10000,845,864872,10000,11840000,1000005,10240000,

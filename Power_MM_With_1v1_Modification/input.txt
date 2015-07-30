@@ -1,0 +1,11 @@
+r fa01
+w fa01 0000
+r fa01
+wait 10
+read all
+modify analog 170
+read all
+pa fa
+read all
+modify digital 160
+quit

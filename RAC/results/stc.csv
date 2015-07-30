@@ -1,0 +1,53 @@
+Power Measurement Results
+
+ADDR,Config_Reg,Shunt_Voltage,Bus_Voltage,Power,Current,Calibration
+0x40,01df,4.47,1.008,451.0,447.04,9174
+0x41,01df,2.35,2.5,587.4,234.96,9174
+0x43,01df,2.55,3.296,840.88,255.024,ade8
+0x44,01df,6.41,1.0,642.4,640.97,9174
+0x45,01df,0.13,2.52,33.0,12.98,9174
+0x47,01df,1.23,3.3,437.92,121.992,ade8
+
+Generator_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,TotalFrameCount,TotalOctetCount,GeneratorFrameCount,GeneratorOctetCount,GeneratorSigFrameCount,
+
+generatorportresults1,,port1,Port //2/1,1000000,128000000,1000000,128000000,1000000,
+generatorportresults2,,port2,Port //2/2,0,0,0,0,0,
+generatorportresults3,,port3,Port //2/3,1000000,128000000,1000000,128000000,1000000,
+generatorportresults4,,port4,Port //2/4,0,0,0,0,0,
+generatorportresults5,,port5,Port //2/5,1000000,128000000,1000000,128000000,1000000,
+generatorportresults6,,port6,Port //2/6,0,0,0,0,0,
+
+Analyzer_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,TotalFrameCount,TotalOctetCount,TotalBitRate,
+
+analyzerportresults1,,port1,Port //2/1,0,0,0,
+analyzerportresults2,,port2,Port //2/2,0,0,0,
+analyzerportresults3,,port3,Port //2/3,0,0,0,
+analyzerportresults4,,port4,Port //2/4,0,0,0,
+analyzerportresults5,,port5,Port //2/5,0,0,0,
+analyzerportresults6,,port6,Port //2/6,0,0,0,
+
+RxStream_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,MinLatency,MaxLatency,DroppedFrameCount,DroppedFramePercent,
+
+rxstreamsummaryresults1,,port1,Port //2/1,0,0,0,0,0,
+rxstreamsummaryresults2,,port2,Port //2/2,0,0,0,0,0,
+rxstreamsummaryresults3,,port3,Port //2/3,0,0,0,0,0,
+rxstreamsummaryresults4,,port4,Port //2/4,0,0,0,0,0,
+rxstreamsummaryresults5,,port5,Port //2/5,0,0,0,0,0,
+rxstreamsummaryresults6,,port6,Port //2/6,0,0,0,0,0,
+
+TxStream_Results
+
+ResultObject,ResultObjectName,ResultParent,ResultParentName,FrameCount,FrameRate,BitRate,ExpectedRxFrameCount,L1BitCount,L1BitRate,BitCount,
+
+txstreamresults1,,port1,Port //2/1,1000000,0,0,1000000,1184000000,0,1024000000,
+txstreamresults2,,port2,Port //2/2,0,0,0,0,0,0,0,
+txstreamresults3,,port3,Port //2/3,1000000,0,0,1000000,1184000000,0,1024000000,
+txstreamresults4,,port4,Port //2/4,0,0,0,0,0,0,0,
+txstreamresults5,,port5,Port //2/5,1000000,6852,7016032,1000000,1184000000,8112285,1024000000,
+txstreamresults6,,port6,Port //2/6,0,0,0,0,0,0,0,

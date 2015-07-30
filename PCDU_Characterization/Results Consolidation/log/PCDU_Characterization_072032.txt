@@ -1,0 +1,2 @@
+INFO:root:Started at 072032
+INFO:root:Started at 072032

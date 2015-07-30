@@ -1,0 +1,47 @@
+5656
+5656                # Header to Detect the Flash
+01aa                # Set the Clock division of the MSPI clock to 31Mhz
+0000
+0100                # -----------  START USER DEFINED SETTINGS ---------------#
+9999                #    - Call the Unmanaged Mode Switch Settings
+0D00                #    - Set the number of entires for the  Read-Modiy-Write Block (6666)
+6666
+00F4                #    - Enable Gswip and all Ports GSWIP_CFG (F400)
+00C0
+00FF
+83F3                #    - Enable GPIO_ALSEL0 (F383) bit[1:0] = "11" to enable MMDIO external access
+0300                #    -                           
+0300
+84F3                #    - Enable GPIO_ALSEL1 (F384) bit[1:0] = "11" to enable MMDIO external access
+0300                #    -                           
+0300
+93F3                #    - Enable GPI2_ALSEL0 (F393) bit[15:0] = '1 to enable all GPhy LEDs
+FFFF                #    -                           
+FFFF
+80F4                #    - Disable  the SMDIO (F480) bit[0] - '1'
+0000
+0000
+00F7                #    - Set GPHY0_FCR (F700 ) to (a) Point to external Flash ; (b) Set base address to 256 bytes
+FFFF
+1080
+10F7                #    - Set GPHY1_FCR (F710 ) to (a) Point to external Flash ; (b) Set base address to 256 bytes
+FFFF
+1080
+20F7                #    - Set GPHY2_FCR (F720 ) to (a) Point to external Flash ; (b) Set base address to 256 bytes
+FFFF
+1080
+30F7                #    - Set GPHY3_FCR (F730 ) to (a) Point to external Flash ; (b) Set base address to 256 bytes
+FFFF
+1080
+40F7                #    - Set GPHY4_FCR (F740 ) to (a) Point to external Flash ; (b) Set base address to 256 bytes
+FFFF
+1080
+00F1                #    - Enable the MII_CFG_5 (F7100) for Port 5 - Enable the interface for RGMII
+0040
+0060
+00FA                #    - Just Write to bits [1:0] of RESET_STATUS registers (FA00) to indicate booting from External Flash
+FFFF
+0300
+01FA                #    - Release all Gphys from Reset
+0010
+1F10

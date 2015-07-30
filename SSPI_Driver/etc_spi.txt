@@ -1,0 +1,12 @@
+#SPI Application
+from etc_spi_lib import MPSSE_SPI
+
+
+def ETC_Reg_Read_NS(addr):
+	dev.SPI_Write('01')
+	dev.SPI_Write('12')
+	dev.SPI_Write('34')
+	dev.SPI_Write('55')
+	dev.SPI_Write('AA')
+	dev=MPSSE_SPI(0)
+	dev.DevConf()

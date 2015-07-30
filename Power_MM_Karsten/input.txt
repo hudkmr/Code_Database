@@ -1,0 +1,12 @@
+1	0		"F24S in Reset"	
+2	1		FA01	0000	"All Ports No Cable, Out of Reset(All GPhys in Reset Disabled)"
+3	1		FA01	0010	"Uc Disabled"
+4	1		D009	000C	"Switch off ONLY SGMII Serdes D009==>000c"
+5	1		FA01	0030	"Switch off ONLY SGMII Serdes + FA01 -> 0030"
+6	1		FA01	0031	"GPHY0 Disabled"
+7	1		FA01	0033	"GPHY0,GPHY1 Disabled"
+8	1		FA01	0037	"GPHY0,GPHY1,GPHY2 Disabled"
+9	1		FA01	003F	"GPHY0,GPHY1,GPHY2,GPHY3 Disabled"
+10	2		F98C	0040	F980	0000	"ROPLL Disabled"
+11	2		F88C	0040	F880	0000	"CDB Disabled"			#ETC UART Port will not work if CDB is disabled, So execute this testcase in the end.
+DONE

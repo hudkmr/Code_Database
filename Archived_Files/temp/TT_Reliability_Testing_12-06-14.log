@@ -1,0 +1,11 @@
+DEBUG:root:18:29:4812/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Temperature Chamber Configured and Turned On
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.104000 Volts
+DEBUG:root:Temperature Set to 2 degree celsius
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperature and in all Voltage Conditions
+DEBUG:root:18:44:3112/06/2014

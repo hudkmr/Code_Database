@@ -1,0 +1,48 @@
+INFO:root:Started at 041738
+INFO:root:Started at 041738
+INFO:root:PCDU_5 Register Value = 0200
+INFO:root:RX CRC Error on Port 5 = 90f3
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0200
+INFO:root:RX CRC Error on Port 5 = de1e
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0201
+INFO:root:RX CRC Error on Port 5 = 9e46
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0202
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0203
+INFO:root:RX CRC Error on Port 5 = 3204
+INFO:root:RX Total Packets on Port 5 = 2b6c
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0204
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 45d3
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0205
+INFO:root:RX CRC Error on Port 5 = aaa7
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0206
+INFO:root:RX CRC Error on Port 5 = 0000
+INFO:root:RX Total Packets on Port 5 = 290c
+INFO:root:
+
+INFO:root:PCDU_5 Register Value = 0207
+INFO:root:RX CRC Error on Port 5 = c56a
+INFO:root:RX Total Packets on Port 5 = 0000
+INFO:root:
+
+INFO:root:Ended at 041748

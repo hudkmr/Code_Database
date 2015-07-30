@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<script></script>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>etc_reg_dump</title>
+
+</head>
+<body>
+<table style="text-align: left; width: 1244px; height: 577px;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top;">
+<div style="text-align: right;"><span style="font-weight: bold;"></span><a href="Python_Script_execution.html">home</a><span style="font-weight: bold;"></span></div>
+<span style="font-weight: bold;">ETC Register Dump
+Testcase</span><br>
+<br>
+<div style="text-align: left;"><span style="text-decoration: underline;">Description:-<br>
+<br>
+</span>This testcase get the register values for the
+specified address using ETC UART Port.<br>
+<br>
+<br>
+<div style="text-align: left;"><span style="text-decoration: underline;">Test setup:-</span><br>
+<br>
+<ol>
+<li>Ensure the proper power connection and only one FTDI
+uart port is connected to your PC</li>
+<li>Disconnect if any ZOC terminal is active.</li>
+<li>Enter proper output file ending with .csv</li>
+</ol>
+<div style="text-align: left;">Example:-<br>
+<ol>
+<li>Start Address &nbsp;- 16 bit hexadecimal value -
+eg 0xFA01</li>
+<li>End Address &nbsp; - 16 bit hexadecimal value -
+eg 0xFAFF</li>
+<li>Output File name - "Any_std_name".csv</li>
+</ol>
+<div style="text-align: left;">&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 0xFA01
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+0xFAFF&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; output_file.csv<br>
+<br>
+</div>
+</div>
+<div style="text-align: left;"><span style="text-decoration: underline;">Input Parameter:-</span><br>
+<div style="text-align: center;"><title>Process the HTML form data with the POST method</title>
+
+<form action="http://localhost:8000/etc_reg_dump/etc_reg_log.py" method="get">
+<table style="width: 861px; height: 102px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Baud Rate<br>
+</td>
+<td style="text-align: left;" colspan="2"><input name="baud_rate" type="text"></td>
+</tr>
+<tr>
+<td>Start Address:</td>
+<td style="text-align: left;" colspan="2"><input name="start_address" type="text"></td>
+</tr>
+<tr>
+<td>End Address:</td>
+<td style="text-align: left;" colspan="2"><input name="end_address" type="text"></td>
+</tr>
+<tr>
+<td>Output File Name:&nbsp;<span style="text-decoration: underline;"></span></td>
+<td style="text-align: left;" colspan="2"><textarea name="output_file_name" cols="40" rows="5"></textarea></td>
+</tr>
+<tr>
+<td><span style="text-decoration: underline;">Execute
+Testcase:-</span></td>
+<td style="text-align: left;" colspan="2"><input name="Submit" value="Run" type="submit"></td>
+</tr>
+</tbody>
+</table>
+</form>
+&nbsp; &nbsp;&nbsp;<hta:application id="oMyApp" applicationname="Application Executer" border="no" caption="no" showintaskbar="yes" singleinstance="yes" sysmenu="yes" scroll="no" windowstate="normal"></hta:application>&nbsp;
+<br>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<br>
+<h1 style="text-align: center;"><br>
+</h1>
+</body></html>

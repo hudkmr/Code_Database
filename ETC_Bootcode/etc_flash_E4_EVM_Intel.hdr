@@ -1,0 +1,29 @@
+# HEADER for EVM E4 board
+# history:
+# 18-Dec-2014: JP
+# Note: this is kept only for legacy reason...
+#       only in 115200Baud UART 
+#       Intel Puma 6 support: E4 + enable SMDIO and dissable MMDIO/GPHY4
+#---------------------------
+
+headersz(128);                     # header size is 128 16bit word, 256 bytes
+eeprom(24B,1);                     # select SPI flash type 24bit, with CLKDIV = 62.5/(1+1)
+etc_unmanned();
+cfgwmsk(
+	F400=D000:FF00,        # GSWIP_CFG: 15 enable switch, 14 disable port6, 12 disable port4
+    F410=32A0:FFE0,         # force port 4 link up, 1000Mbps, full duplex and bidirectional pause enable    
+	F383=0000:0033,        # GPIO_ALTSEL0
+	F384=0030:0033,        # GPIO_ALTSEL1
+	F393=ffFF:7FFF,        # GPIO2_ALTSEL0 : only enable LEDx0 and LEDx1
+	F480=0001:0001,   	   # enable SMDIO
+	F700=8010:FFFF,        # GPHY code offset (point to EEPROM)
+	F710=8010:FFFF,
+	F720=8010:FFFF,
+	F730=8010:FFFF,
+	F740=8010:FFFF,
+	F100=4000:6000,        # MII_CFG_5 EN and NO_ISOL
+	F101=0204:0787,        # PCDU_5  TXDLY2:0 4=2.0ns,  RXDLY9:7 4=2.0ns, DELMD10 0 direct delay setting  
+	FA00=0003:FFFF,
+	FA01=1010:F01F         # do not release/reset port4
+);
+header_end(E402);

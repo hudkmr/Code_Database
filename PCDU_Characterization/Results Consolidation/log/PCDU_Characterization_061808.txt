@@ -1,0 +1,779 @@
+INFO:root:Started at 061808
+INFO:root:RX CRC Error on Port 5 = 0x330033
+INFO:root:RX Total Packets on Port 5 = 0x3b003b
+INFO:root:TX Total Packets on Port 5 = 0x430043
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0000
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x4f004f
+INFO:root:RX Total Packets on Port 5 = 0x570057
+INFO:root:TX Total Packets on Port 5 = 0x5f005f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0000
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x6b006b
+INFO:root:RX Total Packets on Port 5 = 0x730073
+INFO:root:TX Total Packets on Port 5 = 0x7b007b
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0000
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xb000b0
+INFO:root:RX Total Packets on Port 5 = 0xb800b8
+INFO:root:TX Total Packets on Port 5 = 0xc000c0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0004
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xcc00cc
+INFO:root:RX Total Packets on Port 5 = 0xd400d4
+INFO:root:TX Total Packets on Port 5 = 0xdc00dc
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0004
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe800e8
+INFO:root:RX Total Packets on Port 5 = 0xf000f0
+INFO:root:TX Total Packets on Port 5 = 0xf800f8
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0004
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x12e012e
+INFO:root:RX Total Packets on Port 5 = 0x1360136
+INFO:root:TX Total Packets on Port 5 = 0x13e013e
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0008
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x14a014a
+INFO:root:RX Total Packets on Port 5 = 0x1520152
+INFO:root:TX Total Packets on Port 5 = 0x15a015a
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0008
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x1650165
+INFO:root:RX Total Packets on Port 5 = 0x16d016d
+INFO:root:TX Total Packets on Port 5 = 0x1750175
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0008
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x1ab01ab
+INFO:root:RX Total Packets on Port 5 = 0x1b301b3
+INFO:root:TX Total Packets on Port 5 = 0x1bb01bb
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 000c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x1c701c7
+INFO:root:RX Total Packets on Port 5 = 0x1cf01cf
+INFO:root:TX Total Packets on Port 5 = 0x1d701d7
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 000c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x1e301e3
+INFO:root:RX Total Packets on Port 5 = 0x1eb01eb
+INFO:root:TX Total Packets on Port 5 = 0x1f301f3
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 000c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2280228
+INFO:root:RX Total Packets on Port 5 = 0x2300230
+INFO:root:TX Total Packets on Port 5 = 0x2380238
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0010
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2440244
+INFO:root:RX Total Packets on Port 5 = 0x24c024c
+INFO:root:TX Total Packets on Port 5 = 0x2540254
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0010
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2600260
+INFO:root:RX Total Packets on Port 5 = 0x2680268
+INFO:root:TX Total Packets on Port 5 = 0x2700270
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0010
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2a602a6
+INFO:root:RX Total Packets on Port 5 = 0x2ad02ad
+INFO:root:TX Total Packets on Port 5 = 0x2b502b5
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0014
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2c102c1
+INFO:root:RX Total Packets on Port 5 = 0x2c902c9
+INFO:root:TX Total Packets on Port 5 = 0x2d102d1
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0014
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x2dd02dd
+INFO:root:RX Total Packets on Port 5 = 0x2e502e5
+INFO:root:TX Total Packets on Port 5 = 0x2ed02ed
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0014
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x3230323
+INFO:root:RX Total Packets on Port 5 = 0x32b032b
+INFO:root:TX Total Packets on Port 5 = 0x3330333
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0018
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x33f033f
+INFO:root:RX Total Packets on Port 5 = 0x3470347
+INFO:root:TX Total Packets on Port 5 = 0x34f034f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0018
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x35a035a
+INFO:root:RX Total Packets on Port 5 = 0x3620362
+INFO:root:TX Total Packets on Port 5 = 0x36a036a
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0018
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x3a003a0
+INFO:root:RX Total Packets on Port 5 = 0x3a803a8
+INFO:root:TX Total Packets on Port 5 = 0x3b003b0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 001c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x3bc03bc
+INFO:root:RX Total Packets on Port 5 = 0x3c403c4
+INFO:root:TX Total Packets on Port 5 = 0x3cc03cc
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 001c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x3d803d8
+INFO:root:RX Total Packets on Port 5 = 0x3e003e0
+INFO:root:TX Total Packets on Port 5 = 0x3e803e8
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 001c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x41d041d
+INFO:root:RX Total Packets on Port 5 = 0x4250425
+INFO:root:TX Total Packets on Port 5 = 0x42d042d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0020
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x4390439
+INFO:root:RX Total Packets on Port 5 = 0x4410441
+INFO:root:TX Total Packets on Port 5 = 0x4490449
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0020
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x4550455
+INFO:root:RX Total Packets on Port 5 = 0x45d045d
+INFO:root:TX Total Packets on Port 5 = 0x4650465
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0020
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x49a049a
+INFO:root:RX Total Packets on Port 5 = 0x4a204a2
+INFO:root:TX Total Packets on Port 5 = 0x4aa04aa
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0024
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x4b604b6
+INFO:root:RX Total Packets on Port 5 = 0x4be04be
+INFO:root:TX Total Packets on Port 5 = 0x4c604c6
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0024
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x4d204d2
+INFO:root:RX Total Packets on Port 5 = 0x4da04da
+INFO:root:TX Total Packets on Port 5 = 0x4e204e2
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0024
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x5180518
+INFO:root:RX Total Packets on Port 5 = 0x5200520
+INFO:root:TX Total Packets on Port 5 = 0x5270527
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0028
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x5330533
+INFO:root:RX Total Packets on Port 5 = 0x53b053b
+INFO:root:TX Total Packets on Port 5 = 0x5430543
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0028
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x54f054f
+INFO:root:RX Total Packets on Port 5 = 0x5570557
+INFO:root:TX Total Packets on Port 5 = 0x55f055f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0028
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x5950595
+INFO:root:RX Total Packets on Port 5 = 0x59d059d
+INFO:root:TX Total Packets on Port 5 = 0x5a505a5
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 002c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x5b105b1
+INFO:root:RX Total Packets on Port 5 = 0x5b905b9
+INFO:root:TX Total Packets on Port 5 = 0x5c005c0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 002c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x5cc05cc
+INFO:root:RX Total Packets on Port 5 = 0x5d405d4
+INFO:root:TX Total Packets on Port 5 = 0x5dc05dc
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 002c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x6120612
+INFO:root:RX Total Packets on Port 5 = 0x61a061a
+INFO:root:TX Total Packets on Port 5 = 0x6220622
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0030
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x62e062e
+INFO:root:RX Total Packets on Port 5 = 0x6360636
+INFO:root:TX Total Packets on Port 5 = 0x63e063e
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0030
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x64a064a
+INFO:root:RX Total Packets on Port 5 = 0x6520652
+INFO:root:TX Total Packets on Port 5 = 0x65a065a
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0030
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x68f068f
+INFO:root:RX Total Packets on Port 5 = 0x6970697
+INFO:root:TX Total Packets on Port 5 = 0x69f069f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0034
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x6ab06ab
+INFO:root:RX Total Packets on Port 5 = 0x6b306b3
+INFO:root:TX Total Packets on Port 5 = 0x6bb06bb
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0034
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x6c706c7
+INFO:root:RX Total Packets on Port 5 = 0x6cf06cf
+INFO:root:TX Total Packets on Port 5 = 0x6d706d7
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0034
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x70d070d
+INFO:root:RX Total Packets on Port 5 = 0x7140714
+INFO:root:TX Total Packets on Port 5 = 0x71c071c
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0038
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x7280728
+INFO:root:RX Total Packets on Port 5 = 0x7300730
+INFO:root:TX Total Packets on Port 5 = 0x7380738
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0038
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x7440744
+INFO:root:RX Total Packets on Port 5 = 0x74c074c
+INFO:root:TX Total Packets on Port 5 = 0x7540754
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0038
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x78a078a
+INFO:root:RX Total Packets on Port 5 = 0x7920792
+INFO:root:TX Total Packets on Port 5 = 0x79a079a
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 003c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x7a607a6
+INFO:root:RX Total Packets on Port 5 = 0x7ae07ae
+INFO:root:TX Total Packets on Port 5 = 0x7b507b5
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 003c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x7c107c1
+INFO:root:RX Total Packets on Port 5 = 0x7c907c9
+INFO:root:TX Total Packets on Port 5 = 0x7d107d1
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 003c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x8070807
+INFO:root:RX Total Packets on Port 5 = 0x80f080f
+INFO:root:TX Total Packets on Port 5 = 0x8170817
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x8230823
+INFO:root:RX Total Packets on Port 5 = 0x82b082b
+INFO:root:TX Total Packets on Port 5 = 0x8330833
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x83f083f
+INFO:root:RX Total Packets on Port 5 = 0x8470847
+INFO:root:TX Total Packets on Port 5 = 0x84f084f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x8840884
+INFO:root:RX Total Packets on Port 5 = 0x88c088c
+INFO:root:TX Total Packets on Port 5 = 0x8940894
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0044
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x8a008a0
+INFO:root:RX Total Packets on Port 5 = 0x8a808a8
+INFO:root:TX Total Packets on Port 5 = 0x8b008b0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0044
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x8bc08bc
+INFO:root:RX Total Packets on Port 5 = 0x8c408c4
+INFO:root:TX Total Packets on Port 5 = 0x8cc08cc
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0044
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x9020902
+INFO:root:RX Total Packets on Port 5 = 0x90a090a
+INFO:root:TX Total Packets on Port 5 = 0x9110911
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0048
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x91d091d
+INFO:root:RX Total Packets on Port 5 = 0x9250925
+INFO:root:TX Total Packets on Port 5 = 0x92d092d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0048
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x9390939
+INFO:root:RX Total Packets on Port 5 = 0x9410941
+INFO:root:TX Total Packets on Port 5 = 0x9490949
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0048
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x97f097f
+INFO:root:RX Total Packets on Port 5 = 0x9870987
+INFO:root:TX Total Packets on Port 5 = 0x98f098f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 004c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x99b099b
+INFO:root:RX Total Packets on Port 5 = 0x9a309a3
+INFO:root:TX Total Packets on Port 5 = 0x9ab09ab
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 004c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x9b609b6
+INFO:root:RX Total Packets on Port 5 = 0x9be09be
+INFO:root:TX Total Packets on Port 5 = 0x9c609c6
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 004c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x9fc09fc
+INFO:root:RX Total Packets on Port 5 = 0xa040a04
+INFO:root:TX Total Packets on Port 5 = 0xa0c0a0c
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0050
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xa180a18
+INFO:root:RX Total Packets on Port 5 = 0xa200a20
+INFO:root:TX Total Packets on Port 5 = 0xa280a28
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0050
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xa340a34
+INFO:root:RX Total Packets on Port 5 = 0xa3c0a3c
+INFO:root:TX Total Packets on Port 5 = 0xa430a43
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0050
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xa790a79
+INFO:root:RX Total Packets on Port 5 = 0xa810a81
+INFO:root:TX Total Packets on Port 5 = 0xa890a89
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0054
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xa950a95
+INFO:root:RX Total Packets on Port 5 = 0xa9d0a9d
+INFO:root:TX Total Packets on Port 5 = 0xaa50aa5
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0054
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xab10ab1
+INFO:root:RX Total Packets on Port 5 = 0xab90ab9
+INFO:root:TX Total Packets on Port 5 = 0xac10ac1
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0054
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xaf60af6
+INFO:root:RX Total Packets on Port 5 = 0xafe0afe
+INFO:root:TX Total Packets on Port 5 = 0xb060b06
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0058
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xb120b12
+INFO:root:RX Total Packets on Port 5 = 0xb1a0b1a
+INFO:root:TX Total Packets on Port 5 = 0xb220b22
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0058
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xb2e0b2e
+INFO:root:RX Total Packets on Port 5 = 0xb360b36
+INFO:root:TX Total Packets on Port 5 = 0xb3e0b3e
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0058
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xb740b74
+INFO:root:RX Total Packets on Port 5 = 0xb7c0b7c
+INFO:root:TX Total Packets on Port 5 = 0xb840b84
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 005c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xb8f0b8f
+INFO:root:RX Total Packets on Port 5 = 0xb970b97
+INFO:root:TX Total Packets on Port 5 = 0xb9f0b9f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 005c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xbab0bab
+INFO:root:RX Total Packets on Port 5 = 0xbb30bb3
+INFO:root:TX Total Packets on Port 5 = 0xbbb0bbb
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 005c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xbf10bf1
+INFO:root:RX Total Packets on Port 5 = 0xbf90bf9
+INFO:root:TX Total Packets on Port 5 = 0xc010c01
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0060
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xc0d0c0d
+INFO:root:RX Total Packets on Port 5 = 0xc150c15
+INFO:root:TX Total Packets on Port 5 = 0xc1d0c1d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0060
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xc280c28
+INFO:root:RX Total Packets on Port 5 = 0xc300c30
+INFO:root:TX Total Packets on Port 5 = 0xc380c38
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0060
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xc6e0c6e
+INFO:root:RX Total Packets on Port 5 = 0xc760c76
+INFO:root:TX Total Packets on Port 5 = 0xc7e0c7e
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0064
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xc8a0c8a
+INFO:root:RX Total Packets on Port 5 = 0xc920c92
+INFO:root:TX Total Packets on Port 5 = 0xc9a0c9a
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0064
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xca60ca6
+INFO:root:RX Total Packets on Port 5 = 0xcae0cae
+INFO:root:TX Total Packets on Port 5 = 0xcb60cb6
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0064
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xceb0ceb
+INFO:root:RX Total Packets on Port 5 = 0xcf30cf3
+INFO:root:TX Total Packets on Port 5 = 0xcfb0cfb
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0068
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xd070d07
+INFO:root:RX Total Packets on Port 5 = 0xd0f0d0f
+INFO:root:TX Total Packets on Port 5 = 0xd170d17
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0068
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xd230d23
+INFO:root:RX Total Packets on Port 5 = 0xd2b0d2b
+INFO:root:TX Total Packets on Port 5 = 0xd330d33
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0068
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xd680d68
+INFO:root:RX Total Packets on Port 5 = 0xd700d70
+INFO:root:TX Total Packets on Port 5 = 0xd780d78
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 006c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xd840d84
+INFO:root:RX Total Packets on Port 5 = 0xd8c0d8c
+INFO:root:TX Total Packets on Port 5 = 0xd940d94
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 006c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xda00da0
+INFO:root:RX Total Packets on Port 5 = 0xda80da8
+INFO:root:TX Total Packets on Port 5 = 0xdb00db0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 006c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xde60de6
+INFO:root:RX Total Packets on Port 5 = 0xdee0dee
+INFO:root:TX Total Packets on Port 5 = 0xdf60df6
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0070
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe020e02
+INFO:root:RX Total Packets on Port 5 = 0xe0a0e0a
+INFO:root:TX Total Packets on Port 5 = 0xe120e12
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0070
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe1d0e1d
+INFO:root:RX Total Packets on Port 5 = 0xe250e25
+INFO:root:TX Total Packets on Port 5 = 0xe2d0e2d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0070
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe630e63
+INFO:root:RX Total Packets on Port 5 = 0xe6b0e6b
+INFO:root:TX Total Packets on Port 5 = 0xe730e73
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0074
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe7f0e7f
+INFO:root:RX Total Packets on Port 5 = 0xe870e87
+INFO:root:TX Total Packets on Port 5 = 0xe8f0e8f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0074
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xe9b0e9b
+INFO:root:RX Total Packets on Port 5 = 0xea30ea3
+INFO:root:TX Total Packets on Port 5 = 0xeab0eab
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0074
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xee00ee0
+INFO:root:RX Total Packets on Port 5 = 0xee80ee8
+INFO:root:TX Total Packets on Port 5 = 0xef00ef0
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0078
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xefc0efc
+INFO:root:RX Total Packets on Port 5 = 0xf040f04
+INFO:root:TX Total Packets on Port 5 = 0xf0c0f0c
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0078
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xf180f18
+INFO:root:RX Total Packets on Port 5 = 0xf200f20
+INFO:root:TX Total Packets on Port 5 = 0xf280f28
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0078
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xf5d0f5d
+INFO:root:RX Total Packets on Port 5 = 0xf650f65
+INFO:root:TX Total Packets on Port 5 = 0xf6d0f6d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 007c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xf790f79
+INFO:root:RX Total Packets on Port 5 = 0xf810f81
+INFO:root:TX Total Packets on Port 5 = 0xf890f89
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 007c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xf950f95
+INFO:root:RX Total Packets on Port 5 = 0xf9d0f9d
+INFO:root:TX Total Packets on Port 5 = 0xfa50fa5
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 007c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xfda0fda
+INFO:root:RX Total Packets on Port 5 = 0xfe20fe2
+INFO:root:TX Total Packets on Port 5 = 0xfea0fea
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0080
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0xff60ff6
+INFO:root:RX Total Packets on Port 5 = 0xffe0ffe
+INFO:root:TX Total Packets on Port 5 = 0x10061006
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0080
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x10121012
+INFO:root:RX Total Packets on Port 5 = 0x101a101a
+INFO:root:TX Total Packets on Port 5 = 0x10221022
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0080
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x10581058
+INFO:root:RX Total Packets on Port 5 = 0x10601060
+INFO:root:TX Total Packets on Port 5 = 0x10671067
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0084
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x10731073
+INFO:root:RX Total Packets on Port 5 = 0x107b107b
+INFO:root:TX Total Packets on Port 5 = 0x10831083
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0084
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x108f108f
+INFO:root:RX Total Packets on Port 5 = 0x10971097
+INFO:root:TX Total Packets on Port 5 = 0x109f109f
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0084
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x10d510d5
+INFO:root:RX Total Packets on Port 5 = 0x10dd10dd
+INFO:root:TX Total Packets on Port 5 = 0x10e410e4
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0088
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x10f010f0
+INFO:root:RX Total Packets on Port 5 = 0x10f810f8
+INFO:root:TX Total Packets on Port 5 = 0x11001100
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0088
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x110c110c
+INFO:root:RX Total Packets on Port 5 = 0x11141114
+INFO:root:TX Total Packets on Port 5 = 0x111c111c
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0088
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x11521152
+INFO:root:RX Total Packets on Port 5 = 0x115a115a
+INFO:root:TX Total Packets on Port 5 = 0x11621162
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 008c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x116d116d
+INFO:root:RX Total Packets on Port 5 = 0x11751175
+INFO:root:TX Total Packets on Port 5 = 0x117d117d
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 008c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x11891189
+INFO:root:RX Total Packets on Port 5 = 0x11911191
+INFO:root:TX Total Packets on Port 5 = 0x11991199
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 008c
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x11cf11cf
+INFO:root:RX Total Packets on Port 5 = 0x11d711d7
+INFO:root:TX Total Packets on Port 5 = 0x11df11df
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0090
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x11ea11ea
+INFO:root:RX Total Packets on Port 5 = 0x11f211f2
+INFO:root:TX Total Packets on Port 5 = 0x11fa11fa
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0090
+INFO:root:
+
+INFO:root:RX CRC Error on Port 5 = 0x12061206
+INFO:root:RX Total Packets on Port 5 = 0x120e120e
+INFO:root:TX Total Packets on Port 5 = 0x12161216
+INFO:root:PCDU_5 Register Value = 0040
+INFO:root:PCDU_5 Register Value = 0090
+INFO:root:
+
+INFO:root:Ended at 061812

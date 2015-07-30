@@ -1,0 +1,168 @@
+DEBUG:root:13:49:5024/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:14:06:0024/06/2014
+DEBUG:root:14:06:4524/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:18:56:1424/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperature and in all Voltage Conditions
+DEBUG:root:18:57:4724/06/2014
+DEBUG:root:19:13:2224/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:19:35:2424/06/2014
+DEBUG:root:19:35:4624/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:19:41:0724/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.104000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:19:47:3924/06/2014
+DEBUG:root:19:48:1924/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:19:55:5924/06/2014
+DEBUG:root:19:56:2024/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.092000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:19:59:5024/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.104000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:20:04:0024/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.040000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.148000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:20:10:0724/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:20:12:4624/06/2014
+DEBUG:root:I2C Device Configured for Synchronous Bit Bang Mode
+DEBUG:root:All the CSM Devices Configured
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.096000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.048000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.045000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 0.076000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.155000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.100000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.100000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.048000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.045000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.160000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.155000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.045000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x44 is 1.100000 Volts
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.104000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.100000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 1.048000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.045000 Voltage
+DEBUG:root:Bus Voltage at I2C device addr - 0x40 is 0.076000 Volts
+DEBUG:root:Started 1M Burst Transfer at 1G Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed
+DEBUG:root:Started 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Finished 0.1M Burst Transfer at 100M Speed
+DEBUG:root:Started 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 0.01M Burst Transfer at 10M Speed
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.155000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperatures at 1.155000 Voltage
+DEBUG:root:Finished 1M Burst Transfer at 1G Speed in all Temperature and in all Voltage Conditions
+DEBUG:root:20:58:0324/06/2014
